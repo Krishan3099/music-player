@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27402891719",
+    "project_id": "music-player-212d6",
+    "storage_bucket": "music-player-212d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27402891719:android:5639d8c5d420defa0ba9e2",
+        "android_client_info": {
+          "package_name": "com.play.freso.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27402891719-fjkmn4ha6tqk1gja2n3el26lmbjkaike.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfFY_Rm4GwIYuD-XZLRzmAiu11katWTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27402891719-fjkmn4ha6tqk1gja2n3el26lmbjkaike.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
